@@ -1,16 +1,13 @@
-### Hi there 👋
+# 🖐 Hi, I’m Lennart Sargezian
+- 🌏 I’m interested in Back-end development
+- 🚧 I’m currently working at Maanson ApS
+- 📫 Feel free to write me an email
 
-<!--
-**Lennart1997/Lennart1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 My 2 Most recent Projects:
 
-Here are some ideas to get you started:
+### 🔫 [CSGO-TRADING](https://github.com/Lennart1997/SEPCSTier1) - not currently hosted
+>A project build during 3rd Semester at VIA UC meant to be a **trading platform for CSGO Gamers** built using the three tier architecture with a presentation tier for which C# and the **Blazor Framework** was utilized, a business tier, for which C# was used for its WebApi functionality, and a data tier, for which Java and the **Spring framework** was used. The networking is REST & GraphQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💵 [Airline Booking](https://github.com/Lennart1997/AirlineBooking) - not currently hosted
+> **Airline Booking application** built with JAVA, RMI, JavaFx, JDBC, PostgreSQL & JUnit
+
