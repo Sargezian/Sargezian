@@ -1,7 +1,7 @@
 # 🖐 Hi, I’m Lennart Sargezian
 - 🌏 I’m interested in Back-end development
 - 🚧 I’m currently working at Maanson ApS
-- 📫 Feel free to write me an email
+- 📫 Feel free to connect with me on Linkedin
 
 ## 💼 My 2 Most recent Projects:
 
