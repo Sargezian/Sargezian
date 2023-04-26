@@ -1,6 +1,6 @@
 # 🖐 Hi, I’m Lennart Sargezian
-- 🌏 I’m interested in Back-end development
-- 🚧 I’m currently working at Maanson ApS
+- 🌏 I’m interested in Full-stack development
+- 🚧 I’m currently working at DreamWayMedia
 - 📫 Feel free to connect with me on Linkedin
 
 ## 💼 My 3 Most recent Projects:
