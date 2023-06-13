@@ -3,7 +3,9 @@
 - 🚧 I’m currently working at DreamWayMedia
 - 📫 Feel free to connect with me on Linkedin
 
-## 💼 My 3 Most recent Projects:
+## 💼 My 4 Most recent Projects:
+### 🎥 [Cinemania](https://github.com/Sargezian/Cinemania-Frontend)
+>An Social media movie web. application. The app makes use of TypeScript, Java, Spring Boot, React, firebase, Github Actions, Docker, REST and Azure
 
 ### 📈 [MyTradingApp](https://github.com/Lennart1997/MyTradingApp) 
 >An mobile-android application that provides a graphical way to display stock
