@@ -5,7 +5,7 @@
 
 ## 💼 My 4 Most recent Projects:
 ### 🎥 [Cinemania](https://github.com/Sargezian/Cinemania-Frontend)
->An Social media movie web-application. The app makes use of TypeScript, Java, Spring Boot, React, firebase, Github Actions, Docker, REST and Azure
+>An Social media movie web-application. This project makes use of TypeScript, Java, Spring Boot, React, firebase, Github Actions, Docker, REST and Azure
 
 ### 📈 [MyTradingApp](https://github.com/Lennart1997/MyTradingApp) 
 >An mobile-android application that provides a graphical way to display stock
