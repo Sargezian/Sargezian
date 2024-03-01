@@ -6,7 +6,7 @@
 ## 💼 My 5 Most recent Projects:
 
 ### 💭 [ChatApp](https://github.com/Sargezian/PentiaProject)
->A Chat application developed using Google Firebase, React Native CLI & TypeScript.
+>A Chat application that includes login functionality and the possibility to join some predefined chat rooms. Was developed using Google Firebase, React Native CLI & TypeScript.
 
 ### 🎥 [Cinemania](https://github.com/Sargezian/Cinemania-Frontend)
 >An Social media movie web-application. This project makes use of TypeScript, Java, Spring Boot, React, firebase, Github Actions, Docker, REST and Azure
