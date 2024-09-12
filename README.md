@@ -3,6 +3,8 @@
 - 🚧 I’m currently working at DreamWayMedia
 - 📫 Feel free to connect with me on Linkedin
 
+- My Personal website https://sargezian.com/ 
+
 ## 💼 My 5 Most recent Projects:
 
 ### 💭 [ChatApp](https://github.com/Sargezian/PentiaProject)
